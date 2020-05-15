@@ -1,0 +1,8 @@
+waga 		f(w) = w 
+wariancja 	f(w) = (w -wsr)^2
+
+logl likelihood jedna linia tfd.normal.log_prob
+log_prob
+density.log_prob
+logq proposal distrubution p(w)*p(sig)
+prior_w.log_prop(w_samples)
